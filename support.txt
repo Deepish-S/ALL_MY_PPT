@@ -1,0 +1,12 @@
+start chrome "https://namelix.com/"
+start chrome "https://looka.com/"
+start chrome "http://deepish-s.lovestoblog.com"
+start chrome "https://stunning.so/"
+start chrome "https://www.canva.com/"
+start chrome "https://chat.openai.com/chat"
+
+Rem temporary 
+Rem mailstemporary16@gmail.com
+Rem crackit!
+
+
